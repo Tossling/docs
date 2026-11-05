@@ -82,3 +82,4 @@ nav:
   - Security and the protocol:
       - security/index.md
       - Protocol: security/protocol.md
+  - Troubleshooting: troubleshooting.md

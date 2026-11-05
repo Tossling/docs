@@ -52,10 +52,10 @@ app also needs an APNs key uploaded to that Firebase project.
 
 ## Check it
 
-The health answer says `"push": true`:
+The health answer says `"push": true` once `TOSSLING_FIREBASE_KEY_FILE` is set:
 
 ```bash
 curl https://tossling.example.com/v1/tossling/health
 ```
 
-The overview page of the [web panel](web-panel.md) shows the Firebase state too.
+Check the server log with `docker compose logs tossling-server` for errors about the key file. The overview page of the [web panel](web-panel.md) shows the Firebase state too.
