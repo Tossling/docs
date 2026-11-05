@@ -79,3 +79,6 @@ nav:
       - Instant delivery: server/instant-delivery.md
       - Changing the domain: server/domain.md
       - Upgrades and backups: server/upgrades.md
+  - Security and the protocol:
+      - security/index.md
+      - Protocol: security/protocol.md
