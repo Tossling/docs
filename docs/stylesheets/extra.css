@@ -1,0 +1,22 @@
+:root {
+  --md-primary-fg-color: #3067b8;
+  --md-primary-fg-color--light: #5a8ad0;
+  --md-primary-fg-color--dark: #234d8a;
+  --md-accent-fg-color: #3067b8;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #7aa5e6;
+  --md-typeset-a-color: #7aa5e6;
+}
+
+.md-header__button.md-logo img {
+  border-radius: 6px;
+}
+
+.screenshots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+}
