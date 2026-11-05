@@ -26,7 +26,8 @@ relays ciphertext and never sees the clipboard.
 1. [Run the server](server/index.md) and open the setup link from its log.
 2. [Install the app](install.md) on a computer and connect it to the server with the address and the token from the
    setup page.
-3. Scan the QR code the computer shows with the phone app, or add another computer with an invite code.
+3. Scan the QR code the computer shows with the phone app, or add another computer with an invite code. See
+   [Rooms and devices](rooms.md).
 
 To see the phone side before setting anything up, install the phone app and tap Try without a computer, or open
 [tossling-demo.monoroh.com/demo](https://tossling-demo.monoroh.com/demo). A demo computer shares a room with the phone

@@ -68,6 +68,7 @@ validation:
 nav:
   - Home: index.md
   - Install: install.md
+  - Rooms and devices: rooms.md
   - Your server:
       - server/index.md
       - Reverse proxy: server/reverse-proxy.md
